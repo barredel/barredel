@@ -13,7 +13,6 @@ I am a passionate Data Scientist and Engineer with a strong foundation in **Mach
 
 * 🔭 I’m currently working on **Advanced RAG Systems & Causal Inference Research**
 * 🎓 **Education:** B.Sc. in Data Science & Engineering, **Technion**
-* ⚔️ **Background:** Ex-Combat Commander (IDF), bringing leadership and resilience to tech challenges.
 * ⚽ **Personal:** When I'm not optimizing models, you can find me on the **Tennis court** 🎾, watching **Football** ⚽, hiking ⛰️, or hanging out with my **dog** 🐶.
 
 ---
@@ -67,14 +66,6 @@ Research on the causal effect of sleep on injuries using IPW and S-Learner (~800
 
 📌 **[Time Series Forecasting - Hospitality Industry](https://github.com/barredel/Time-Series-Forecasting-Hospitality.)**
 Analyzing 28 years of data with SARIMA, Prophet, and XGBoost to predict market trends.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Bar's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
-</p>
 
 ---
 
