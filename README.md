@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hi there, I'm Bar Redel! 👋
 ### 🚀 Data Scientist | Data Engineer | Software Developer
