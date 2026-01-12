@@ -13,7 +13,6 @@ I am a passionate Data Scientist and Engineer with a strong foundation in **Mach
 
 * 🔭 I’m currently working on **Advanced RAG Systems & Causal Inference Research**
 * 🎓 **Education:** B.Sc. in Data Science & Engineering, **Technion**
-* ⚽ **Personal:** When I'm not optimizing models, you can find me on the **Tennis court** 🎾, watching **Football** ⚽, hiking ⛰️, or hanging out with my **dog** 🐶.
 
 ---
 
